@@ -1,0 +1,20 @@
+{
+  "name": "nodart-mod/swagger-generator",
+  "version": "1.0.0",
+  "description": "Swagger OpenAPI generator for NodArt framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodart-labs/nodart-swagger-generator.git"
+  },
+  "main": "index.ts",
+  "scripts": {
+    "test": "tests"
+  },
+  "keywords": [
+    "Swagger",
+    "generator",
+    "open-api"
+  ],
+  "author": "ArGab",
+  "license": "MIT"
+}
